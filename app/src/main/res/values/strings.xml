@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LocationApp</string>
+    <string name="Location">Location</string>
+    <string name="Longtiude">Longtiude</string>
+    <string name="Latidiude">Latidiude</string>
+    <string name="sendSms">SMS</string>
+    <string name="OpenMap">Open Map</string>
+</resources>
